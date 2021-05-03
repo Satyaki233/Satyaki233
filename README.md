@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Satyaki233
+- 👋 Hi, I’m Satyaki De Sarkar
 - 👀 I’m interested in App Devlopment and argumented Reality
 - 🌱 I’m currently learning App Devlopment
 - 💞️ I’m looking to collaborate on Argumented Reality Using Android
