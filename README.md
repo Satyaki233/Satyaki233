@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Satyaki233
-- 👀 I’m interested in Web And App Devlopment
+- 👀 I’m interested in App Devlopment and argumented Reality
 - 🌱 I’m currently learning App Devlopment
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me satyakidesarkar2017@gmail.com
+- 💞️ I’m looking to collaborate on Argumented Reality Using Android
+- 📫 How to reach me satyakidev@gmail.com
 
 <!---
 Satyaki233/Satyaki233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
