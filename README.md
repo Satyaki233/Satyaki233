@@ -1,9 +1,28 @@
-- 👋 Hi, I’m Satyaki De Sarkar
-- 👀 I’m interested in Data Engineering, Backend Development and Artificial Intelligence
-- 🌱 I’m currently working as a Software Engineer @VUCS pvt ltd
-- 💞️ I’m looking to collaborate on creating a custom ETL for large data processing.
-- 📫 How to reach me satyakidesarkar2017@gmail.com
-- ✨ My Linked in Profile https://www.linkedin.com/in/satyaki-de-sarkar/
+Here's a more engaging and polished version of your GitHub intro:  
+
+---
+
+### 🚀 Hey there! I'm Satyaki De Sarkar  
+
+👋 Welcome to my GitHub! I'm a **Software Engineer** with a passion for **Data Engineering, Backend Development, and Artificial Intelligence**.  
+
+💡 I love building scalable and efficient systems, whether it's **ETL pipelines**, **high-performance APIs**, or **AI-powered solutions**.  
+
+⚡ I'm always eager to explore **new challenges and opportunities**.  
+
+💻 **What I’m up to:**  
+🔹 Building a **custom ETL** for large-scale data processing  
+🔹 Exploring **cloud technologies** (AWS & Azure)  
+🔹 Optimizing databases like **PostgreSQL, MySQL, and Snowflake**  
+🔹 Enhancing my expertise in **FastAPI, Express.js, and Spark**  
+
+💬 Let's connect and collaborate!  
+📧 **Email:** satyakidesarkar2017@gmail.com  
+🔗 **LinkedIn:** [Satyaki De Sarkar](https://www.linkedin.com/in/satyaki-de-sarkar/)  
+
+🚀 Always open to **exciting projects, knowledge-sharing, and new opportunities**!  
+
+
 
 <!---
 Satyaki233/Satyaki233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
