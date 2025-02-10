@@ -1,7 +1,3 @@
-Here's a more engaging and polished version of your GitHub intro:  
-
----
-
 ### 🚀 Hey there! I'm Satyaki De Sarkar  
 
 👋 Welcome to my GitHub! I'm a **Software Engineer** with a passion for **Data Engineering, Backend Development, and Artificial Intelligence**.  
